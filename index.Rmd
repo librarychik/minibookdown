@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Swimming in it"
+author: "Jelly Bean"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
