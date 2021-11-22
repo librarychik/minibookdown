@@ -2,6 +2,9 @@
 
 Baboons, we saw baboons first, they were almost everywhere we went. Most especially on the roof of whatever lodge we were staying at, they would bound back and forth across the roof, thud, thud, kathump. It was very cool to have baboons play above your head, but we were warned **not** to leave our windows/veranda doors open or they would get into the room and wreak havoc.
 
+url <- "https://photos.app.goo.gl/iZ2QnEiuu2hTy8Rd9"
+knitr::include_graphics(url, dpi = 600)
+
 We also saw Vervet Monkeys and were quite excited by our first elephant. She was very, very old, missing part of a tusk and oh, so very wrinkled. But she had a certain majesty about her.
 
 We went on Safari at the end of the dry season in October, it was very dry and dusty, with isolated patches of lush greenness. I would love to go back at the end of the wet season when the babies are new, the Serengeti is green, and the migration is full bore.
