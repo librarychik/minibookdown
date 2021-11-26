@@ -1,6 +1,6 @@
 ---
 title: "Swimming in it"
-author: "Jelly Bean"
+author: "Janice Banser"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
